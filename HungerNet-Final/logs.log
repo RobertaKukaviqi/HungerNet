@@ -1,0 +1,18 @@
+[INFO ] 2022-09-20 14:15:06.512 [main] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2022-09-20 14:15:06.668 [main] Version - HHH000412: Hibernate ORM core version 5.6.9.Final
+[INFO ] 2022-09-20 14:15:07.361 [main] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[INFO ] 2022-09-20 14:15:08.650 [main] Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2022-09-20 14:15:15.118 [main] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2022-09-20 14:16:01.231 [main] LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+[INFO ] 2022-09-20 14:16:01.388 [main] Version - HHH000412: Hibernate ORM core version 5.6.9.Final
+[INFO ] 2022-09-20 14:16:01.893 [main] Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[INFO ] 2022-09-20 14:16:03.378 [main] Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+[INFO ] 2022-09-20 14:16:07.127 [main] JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[INFO ] 2022-09-20 14:18:30.817 [main] UserController - Ermal is saved successfully
+[INFO ] 2022-09-20 14:18:50.635 [main] UserController - Ermal is saved successfully
+[INFO ] 2022-09-20 14:39:20.280 [main] MenuController - null is running saveMenu() method
+[ERROR] 2022-09-20 14:39:20.283 [main] MenuController - null
+[INFO ] 2022-09-20 14:40:48.997 [main] MenuController - null is running saveMenu() method
+[ERROR] 2022-09-20 14:40:48.999 [main] MenuController - null
+[INFO ] 2022-09-20 14:42:03.639 [main] MenuController - null is running saveMenu() method
+[ERROR] 2022-09-20 14:42:31.573 [main] MenuController - null
